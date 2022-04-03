@@ -12,3 +12,4 @@ main()
     printf("Area of circle=%f\n", area);
     printf("Circumference of circle=%f\n", circumference);
 }
+/* This code written by Sagar(Me).
